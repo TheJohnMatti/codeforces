@@ -1,3 +1,6 @@
+#include <bits/stdc++.h>
+using namespace std;
+
 vector<int> z_function(string s) {
     int n = s.size();
     vector<int> z(n);

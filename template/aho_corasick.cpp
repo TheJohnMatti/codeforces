@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 const int K = 26;
 
 struct Vertex {
